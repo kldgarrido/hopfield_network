@@ -6,7 +6,7 @@ ouput:
 
 Pattern to clasifier:
 
-.00.0
+.00.0\n
 ..0..
 0.0..
 ..0..
