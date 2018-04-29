@@ -6,16 +6,22 @@ ouput:
 
 Pattern to clasifier:
 
-.00.0\n
+.00.0
+
 ..0..
+
 0.0..
+
 ..0..
 
 
 Clasified Pattern:
 
 .00..
+
 ..0..
+
 ..0..
+
 ..0..
 
